@@ -1,3 +1,6 @@
+/*
+제목: 다중상속의 모호성
+*/
 #include <iostream>
 
 using std::cout;
