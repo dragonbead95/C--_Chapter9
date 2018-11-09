@@ -1,3 +1,6 @@
+/*
+제목: 가상함수의 동작원리와 가상함수 테이블
+*/
 #include <iostream>
 
 using std::cout;
