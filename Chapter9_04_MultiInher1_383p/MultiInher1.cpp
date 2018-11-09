@@ -1,3 +1,6 @@
+/*
+제목: 다중상속의 기본방법
+*/
 #include <iostream>
 
 using std::cout;
