@@ -10,7 +10,7 @@
 
 
 /*
-컨트롤 클래스 AccountHandler 중심으로 변경된 main 함수
+컨트롤 클래스 AccountHandler 중심으로 변경된 main 함수.
 */
 
 int main(void)
