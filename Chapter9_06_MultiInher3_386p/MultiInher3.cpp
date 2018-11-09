@@ -1,3 +1,6 @@
+/*
+제목: 가상상속
+*/
 #include <iostream>
 
 using std::endl;
